@@ -1,0 +1,15 @@
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\Unit.Test.PulseZoneSystem.dll
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\Unit.Test.PulseZoneSystem.pdb
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\Castle.Core.dll
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\NSubstitute.dll
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\nunit.framework.dll
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\PulseZoneSystem.exe
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\PulseZoneSystem.pdb
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\PulseZoneSystem.exe.config
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\nunit.framework.xml
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\obj\Debug\Unit.Test.PulseZoneSystem.csprojResolveAssemblyReference.cache
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\obj\Debug\Unit.Test.PulseZoneSystem.csproj.CoreCompileInputs.cache
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\obj\Debug\Unit.Test.PulseZoneSystem.dll
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\Unit.Test.PulseZoneSystem\obj\Debug\Unit.Test.PulseZoneSystem.pdb

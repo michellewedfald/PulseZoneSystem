@@ -1,0 +1,7 @@
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\PulseZoneSystem\bin\Debug\PulseZoneSystem.exe.config
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\PulseZoneSystem\bin\Debug\PulseZoneSystem.exe
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\PulseZoneSystem\bin\Debug\PulseZoneSystem.pdb
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\PulseZoneSystem\obj\Debug\PulseZoneSystem.csprojResolveAssemblyReference.cache
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\PulseZoneSystem\obj\Debug\PulseZoneSystem.csproj.CoreCompileInputs.cache
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\PulseZoneSystem\obj\Debug\PulseZoneSystem.exe
+C:\Users\MichelleWedfald\Desktop\ST3ITS2-172-201607371-MichelleWedfaldNielsen\PulseZoneSystem\PulseZoneSystem\obj\Debug\PulseZoneSystem.pdb
